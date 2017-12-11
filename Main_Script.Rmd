@@ -11,8 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Is there a relationship between attitude of parents and use of birth control?**
 
-**Is there a relationship between timing of first sexual intercourse and perceptions of parental liberality?**
-
 ## 1. Load data sets and libraries
 ```{r}
 load("C:/Users/Boham_/Desktop/School/Statistics/Project/datasets/addhealth_W1.RData")
